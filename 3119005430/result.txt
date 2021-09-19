@@ -1,0 +1,1 @@
+../main/texts/orig.txt与../main/texts/orig_0.8_del.txt的相似度：0.9970723220987202
